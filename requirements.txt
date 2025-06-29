@@ -1,8 +1,12 @@
-# requirements.txt
-streamlit==1.23.0
-pandas==2.1.0
-numpy==1.26.0
-matplotlib==3.8.0
-seaborn==0.13.0
-scikit-learn==1.3.2
-joblib==1.3.2
+# 核心数据科学库
+pandas
+numpy
+matplotlib
+seaborn
+
+# 机器学习库
+scikit-learn
+joblib
+
+# Streamlit 及相关依赖
+streamlit
